@@ -1,4 +1,5 @@
 # A package for planar manipulation research. 
+# NOTE: the repository is migrated to https://github.com/robinzhoucmu/PlanarManipulationToolBox
 This is a simulation and planning package for planar sliding manipulation.
 The core functionalities include:
 1) Frictional distribution identification for patch contacts. The package supports ellipsoid (convex quadratic) and 4th order convex polynomial representation of the limit surface model. The optimization routine requires CVX package. 
